@@ -3,7 +3,7 @@
  * 기  능 : 렉스퍼트 화면 조회
  * param  : FormatType
  * return :
- * 수정자 : 백동원
+ * 수정자 : 신재호
  * 예  제 : ifn_RexPreView(Obj , pRptName,pDataType,pRptParams);
  * PARMETER 설명
  * Obj --> Rexpert Viewer 객체
@@ -14,7 +14,9 @@
 function ifn_RexPreView(Obj, pRptDB, pRptName,pDataType,pRptParams)
 {
 	
-
+	
+	
+	
 		var strRptParam;
 		var arrRptParam;
 		var oReport;
