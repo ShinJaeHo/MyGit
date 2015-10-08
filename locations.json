@@ -1,0 +1,24 @@
+{
+"locations": [
+{"_id":1832015,"name":"Heung-hai","country":"KR","coord":{"lon":129.352219,"lat":36.112499}},
+{"_id":1832617,"name":"Eisen","country":"KR","coord":{"lon":128.930832,"lat":35.967499}},
+{"_id":1835447,"name":"Taisen-ri","country":"KR","coord":{"lon":126.597717,"lat":36.349312}},
+{"_id":1835967,"name":"Jenzan","country":"KR","coord":{"lon":128.297501,"lat":36.240829}},
+{"_id":1836208,"name":"Songwon","country":"KR","coord":{"lon":127.131393,"lat":36.915562}},
+{"_id":1838508,"name":"Fuyo","country":"KR","coord":{"lon":126.912498,"lat":36.28194}},
+{"_id":1839011,"name":"Beolgyo","country":"KR","coord":{"lon":127.342934,"lat":34.84494}},
+{"_id":1840179,"name":"Kosong","country":"KR","coord":{"lon":128.467606,"lat":38.378811}},
+{"_id":1842966,"name":"Kijang","country":"KR","coord":{"lon":129.213882,"lat":35.244171}},
+{"_id":1843585,"name":"Imsil","country":"KR","coord":{"lon":127.279442,"lat":35.61306}},
+{"_id":1844308,"name":"Hayang","country":"KR","coord":{"lon":128.820007,"lat":35.91333}},
+{"_id":1847050,"name":"Gaigeturi","country":"KR","coord":{"lon":126.318329,"lat":33.464439}},
+{"_id":1882056,"name":"Sinhyeon","country":"KR","coord":{"lon":128.626663,"lat":34.8825}},
+{"_id":1912205,"name":"Ungsang","country":"KR","coord":{"lon":129.16861,"lat":35.406109}},
+{"_id":6395804,"name":"Sinan","country":"KR","coord":{"lon":126.108627,"lat":34.826199}},
+{"_id":1835841,"name":"Republic of Korea","country":"KR","coord":{"lon":127.5,"lat":37}},
+{"_id":1902028,"name":"Kyongsang-namdo","country":"KR","coord":{"lon":128.25,"lat":35.25}},
+{"_id":1846430,"name":"Changpo","country":"KR","coord":{"lon":128.435013,"lat":35.381691}},
+{"_id":6901961,"name":"Chidong-gol","country":"KR","coord":{"lon":128.338211,"lat":35.515518}},
+{"_id":6901967,"name":"Ugok","country":"KR","coord":{"lon":128.36235,"lat":35.520199}}
+]
+}
